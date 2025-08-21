@@ -6,5 +6,5 @@
 
 \# Written with assist from GitHub Copilot
 
-* All codes are written manually with changes made to my likings and includes expanded section
+* All codes and comments are written manually with changes made to my likings and includes expanded section
 * Run commands on the terminal by typing "./<exercise>" (example: ./car)
